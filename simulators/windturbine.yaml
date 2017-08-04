@@ -1,0 +1,25 @@
+# Murano Product Spec File - Wind Turbine Simulator Device Bot
+
+resources:
+-   alias: rpm
+    format: integer
+-   alias: frontbearingtemp
+    format: integer
+-   alias: bladepitch
+    format: integer
+-   alias: price
+    format: float
+-   alias: braketemp
+    format: integer
+-   alias: fault
+    format: integer
+-   alias: utilization
+    format: integer
+-   alias: capacity
+    format: integer
+-   alias: windspeed
+    format: integer
+-   alias: power
+    format: integer
+-   alias: winddirection
+    format: integer
