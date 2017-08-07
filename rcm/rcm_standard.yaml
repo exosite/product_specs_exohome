@@ -1,0 +1,11 @@
+# Murano Product Spec File - RCM Standard Product support
+
+resources:
+-   alias: raw_data
+    format: string
+-   alias: config
+    format: string
+-   alias: status
+    format: string
+-   alias: command
+    format: string
