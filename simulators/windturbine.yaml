@@ -3,6 +3,8 @@
 resources:
 -   alias: rpm
     format: integer
+-   alias: ping
+    format: integer
 -   alias: frontbearingtemp
     format: integer
 -   alias: bladepitch
