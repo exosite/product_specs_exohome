@@ -1,11 +1,20 @@
-# Murano Product Spec File - RCM Standard Product support
+# Murano Product Spec File - RCM Standard Device Resources 
+# Last Update: April 13, 2018
 
 resources:
--   alias: raw_data
+-   alias: data_in
     format: string
--   alias: config
+-   alias: config_io
     format: string
--   alias: status
+#future / not supported yet
+-   alias: data_out 
     format: string
--   alias: command
+-   alias: config_oem 
+    format: string
+-   alias: config_applications 
+    format: string
+-   alias: config_network 
+    format: string    
+#deprecated
+-   alias: raw_data 
     format: string
