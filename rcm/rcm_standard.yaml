@@ -15,6 +15,4 @@ resources:
     format: string
 -   alias: config_network 
     format: string    
-#deprecated
--   alias: raw_data 
-    format: string
+
