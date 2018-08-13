@@ -6,6 +6,10 @@ resources:
     format: string
 -   alias: config_io
     format: string
+-   alias: config_otau
+    format: string
+-   alias: otau_in
+    format: string
 #future / not supported yet
 -   alias: data_out 
     format: string
@@ -14,5 +18,5 @@ resources:
 -   alias: config_applications 
     format: string
 -   alias: config_network 
-    format: string    
+    format: string
 
